@@ -17,7 +17,7 @@ import java.util.Arrays;
  * @author longxiaonan@aliyun.com
  * @date 2018-11-08
  */
-//@Configuration
+@Configuration
 @Slf4j
 public class WebMvcConfig implements WebMvcConfigurer {
 
